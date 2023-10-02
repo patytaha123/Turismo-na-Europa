@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares Turísticos na Europa</title>
+    <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+    <header>
+        <h1>Descubra os Encantos da Europa</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Destinos em Destaque</h2>
+            <div class="destination">
+                <img src="paris.jpg" alt="Paris, França">
+                <h3>Paris, França</h3>
+                <p>A Cidade Luz é famosa por sua arquitetura deslumbrante, museus de renome mundial, como o Louvre, e ícones como a Torre Eiffel.</p>
+            </div>
+            <div class="destination">
+                <img src="Portugal.jpg" alt="lisboa, Portugal">
+                <h3>Lisboa, Portugal</h3>
+                <p>Conheça os principais pontos turísticos de Portugal e saiba quais cidades visitar no país, de acordo com seus monumentos, museus e lugares mais interessantes</p>
+            </div>
+           
+        <section>
+            <h2>Dicas de Viagem</h2>
+            <ul>
+                <li><strong>Transporte:</strong> A Europa possui uma excelente rede de transporte público, tornando fácil se deslocar entre cidades e países. Considere comprar um passe de trem Eurail para economizar em viagens de trem.</li>
+                <li><strong>Clima:</strong> Verifique as condições climáticas antes de viajar, pois a Europa tem uma variedade de climas. Roupas apropriadas são essenciais.</li>
+                <li><strong>Gastronomia:</strong> Experimente a culinária local. Cada região tem suas próprias especialidades, desde croissants franceses até massas italianas.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Cultura e História</h2>
+            <p>A Europa é um tesouro de história e cultura. Explore museus, teatros e locais históricos para uma experiência enriquecedora.</p>
+        </section>
+        <section>
+            <h2>Reserve sua Viagem</h2>
+            <p>Para planejar sua próxima aventura europeia, entre em contato com agências de viagens ou reserve voos e acomodações online. Prepare-se para uma jornada inesquecível pelos lugares turísticos mais incríveis da Europa.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Lugares Turísticos na Europa</p>
+    </footer>
+</body>
+</html>
